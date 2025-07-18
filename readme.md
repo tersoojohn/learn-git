@@ -1,4 +1,4 @@
-#Lear about git and github
+#Learn about git and github
 
 Subscribe to my youtube channel
 
